@@ -1,4 +1,4 @@
-package com.emilsjolander.components.stickyscrollviewitems;
+package com.cundong.listviewinsidescrollview.weight;
 
 import java.util.ArrayList;
 

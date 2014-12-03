@@ -5,10 +5,12 @@
         <attr name="stuckShadowHeight" format="dimension" />
         <attr name="stuckShadowDrawable" format="reference" />
     </declare-styleable>
+    
     <declare-styleable name="LinearListView">
         <attr name="android:entries" />
         <attr name="dividerThickness" format="dimension" />
     </declare-styleable>
+    
     <declare-styleable name="ParallaxScrollView">
         <attr name="zoomRatio" format="float" />
     </declare-styleable>
